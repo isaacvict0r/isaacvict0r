@@ -1,0 +1,2 @@
+- Hi, I’m @isaacvict0r
+- I’m currently learning python
