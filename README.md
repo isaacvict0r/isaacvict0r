@@ -1,2 +1,2 @@
 - Hi, I’m @isaacvict0r
-- I’m currently learning python
+- I'm currently studying html, css, javascript and a few more things!
